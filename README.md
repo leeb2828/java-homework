@@ -9,7 +9,7 @@ Run
 $ java --version
 
 ```
-or
+$ java --version
 ```
 $ javac --version
 ```
