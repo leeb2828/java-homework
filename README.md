@@ -8,6 +8,10 @@ Run
 
 ```
 $ java --version
+``` 
+or
+```
+$ javac --version
 ```
 
 from the command line.<br />
