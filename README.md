@@ -14,16 +14,19 @@ or
 $ javac --version
 ```
 
-from the command line.<br />
+from the command line.
+<br />
+<br />
+
 If you don't have Java installed, open up your browser and search for "jdk download". JDK stands for Java Development Kit. 
 You will be able to download it from Oracle.<br />
 To run any of the files from the command line, compile it with the
 ```
-$ javac filename.java
+$ javac <yourFilename>.java
 ```
 then run it with
 ```
-$ java filename
+$ java <yourFilename>
 ```
 <br />
 
