@@ -21,7 +21,7 @@ then run it with
 ```
 $ java filename
 ```
-command.<br />
+<br />
 
 Chapter 2: JAVA FUNDAMENTALS
 - Primitive Data Types<br />
