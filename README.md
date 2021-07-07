@@ -19,7 +19,7 @@ $ javac filename.java
 ```
 then run it with
 ```
-java filename
+$ java filename
 ```
 command.<br />
 
