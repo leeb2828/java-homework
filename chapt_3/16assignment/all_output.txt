@@ -1,0 +1,15 @@
+Enter the number of books you have purchased this month: -1
+Please enter a valid number: 1
+You have earned 5 points!
+
+Enter the number of books you have purchased this month: 2
+You have earned 15 points!
+
+Enter the number of books you have purchased this month: 3
+You have earned 30 points!
+
+Enter the number of books you have purchased this month: 4
+You have earned 60 points!
+
+Enter the number of books you have purchased this month: 5
+You have earned 60 points!

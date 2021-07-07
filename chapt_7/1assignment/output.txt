@@ -1,0 +1,42 @@
+Each judge is going to give their score for contestant #1
+Enter your score.
+Judge#1 > 20
+Enter your score.
+Judge#2 > 30
+Enter your score.
+Judge#3 > 40
+Each judge is going to give their score for contestant #2
+Enter your score.
+Judge#1 > 20
+Enter your score.
+Judge#2 > 30
+Enter your score.
+Judge#3 > 40
+Each judge is going to give their score for contestant #3
+Enter your score.
+Judge#1 > 20
+Enter your score.
+Judge#2 > 30
+Enter your score.
+Judge#3 > 40
+Each judge is going to give their score for contestant #4
+Enter your score.
+Judge#1 > 20
+Enter your score.
+Judge#2 > 30
+Enter your score.
+Judge#3 > 40
+Each judge is going to give their score for contestant #5
+Enter your score.
+Judge#1 > 20
+Enter your score.
+Judge#2 > 30
+Enter your score.
+Judge#3 > 40
+
+Total score for contestant #1: 90
+Total score for contestant #2: 90
+Total score for contestant #3: 90
+Total score for contestant #4: 90
+Total score for contestant #5: 90
+Average score of all the five contestants: 30

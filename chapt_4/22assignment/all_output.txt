@@ -1,0 +1,12 @@
+Enter the amount of money you want to enter into the slot machine: $5.00
+Melons
+Plums
+Plums
+
+Try again!
+
+Enter the amount of money you want to enter into the slot machine: $3.50
+Bells
+Bells
+Bells
+You won back your $3.50 !

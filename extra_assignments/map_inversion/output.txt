@@ -1,0 +1,5 @@
+Here, the pet names are the keys. The pet age, type, and gender are the values stored in a list inside this map: 
+Original Map: {Chewy=[Cat, 1 year old, male], Violet=[Cat, 4 years old, female], Ninja=[Cat, 1 year old, female], Teddy=[Dog, 4 years old, male]}
+
+Now, the values are the keys and the pet names are the values. This list will show you which pets are cats, which pets are 4 years old, etc. 
+New Map: {Cat=[Chewy, Violet, Ninja], 4 years old=[Violet, Teddy], female=[Violet, Ninja], Dog=[Teddy], male=[Chewy, Teddy], 1 year old=[Chewy, Ninja]}

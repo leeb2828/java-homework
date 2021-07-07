@@ -1,0 +1,8 @@
+Please enter 5 test scores.
+Score 1: 60
+Score 2: 70
+Score 3: 80
+Score 4: 90
+Score 5: 100
+Average: 80
+First grade: D Second grade: C  Third grade: B Fourth grade: A Fifth grade: A 

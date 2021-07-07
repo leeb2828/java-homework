@@ -1,0 +1,4 @@
+Enter the total number of grocery items purchased: 2
+Enter the price of the item #1: $2.50
+Enter the price of the item #2: $2.50
+Total amount spent is: $5.00

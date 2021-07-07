@@ -1,0 +1,36 @@
+Enter a distance in meters: 500
+1. Convert to kilometers
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+
+Enter your choice: 1
+500 meters is 0.5 kilometers.
+
+1. Convert to kilometers
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+
+Enter your choice: 3
+500 meters is 1640.5 feet.
+
+1. Convert to kilometers
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+
+Enter your choice: 2
+500 meters is 19685.0 inches.
+
+1. Convert to kilometers
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+
+Enter your choice: 4
+Bye!

@@ -1,0 +1,48 @@
+For employee #1 ID #5658845
+Enter the employee's hours: 40
+Enter the employee's pay rate: $8.50
+The total gross pay for this employee is $340.00
+
+For employee #2 ID #4520125
+Enter the employee's hours: -1
+Requirement: No negative numbers and input must be in integer form.
+Enter the employee's hours: 40
+Enter the employee's pay rate: $9.50
+The total gross pay for this employee is $380.00
+
+For employee #3 ID #7895122
+Enter the employee's hours: 40
+Enter the employee's pay rate: $5.50
+Requirement: No numbers less than 6.00.
+Enter the employee's pay rate: $6.50
+The total gross pay for this employee is $260.00
+
+For employee #4 ID #8777541
+Enter the employee's hours: 40
+Enter the employee's pay rate: $10.00
+The total gross pay for this employee is $400.00
+
+For employee #5 ID #8451277
+Enter the employee's hours: 40
+Enter the employee's pay rate: $12.00
+The total gross pay for this employee is $480.00
+
+For employee #6 ID #1302850
+Enter the employee's hours: 40
+Enter the employee's pay rate: $15.00
+The total gross pay for this employee is $600.00
+
+For employee #7 ID #7580489
+Enter the employee's hours: 40
+Enter the employee's pay rate: $25.00
+The total gross pay for this employee is $1000.00
+
+ALL EMPLOYEES
+*************
+ID: 5658845  HOURS: 40  PAYRATE: $8.50/hour  GROSS PAY: $340.00
+ID: 4520125  HOURS: 40  PAYRATE: $9.50/hour  GROSS PAY: $380.00
+ID: 7895122  HOURS: 40  PAYRATE: $6.50/hour  GROSS PAY: $260.00
+ID: 8777541  HOURS: 40  PAYRATE: $10.00/hour  GROSS PAY: $400.00
+ID: 8451277  HOURS: 40  PAYRATE: $12.00/hour  GROSS PAY: $480.00
+ID: 1302850  HOURS: 40  PAYRATE: $15.00/hour  GROSS PAY: $600.00
+ID: 7580489  HOURS: 40  PAYRATE: $25.00/hour  GROSS PAY: $1000.00

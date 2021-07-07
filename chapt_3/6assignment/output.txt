@@ -1,0 +1,6 @@
+Enter a number of seconds: 7262
+
+CALCULATE TOTAL TIME
+Number of hours: 2 
+Number of minutes: 1 
+Number of seconds: 2 

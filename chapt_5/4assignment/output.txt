@@ -1,0 +1,10 @@
+Enter the number of rooms that need to be painted: 2
+Enter the price of the paint per gallon: $5
+Enter the square feet of wall space in each room: 115
+
+CALCULATED COSTS
+----------------
+Gallons of paint required: 2.0 gallons. 
+Hours of labor required: 16 hours 
+Total cost of the paint: $10.00 
+Total cost of the labor: $288.00 

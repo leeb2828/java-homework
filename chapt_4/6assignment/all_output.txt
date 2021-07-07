@@ -1,0 +1,7 @@
+Enter the name of the file: friends.txt
+Enter a single letter: e
+'e' appeared 5 times in friends.txt 
+
+Enter the name of the file: data.txt
+Enter a single letter: e
+data.txt does not exist in this directory.

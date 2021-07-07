@@ -1,0 +1,12 @@
+Name: Lee  Age: 27  Phone Number: 8675309
+Address: 1600 Broad Street
+
+Jane
+26
+9705467
+1603 Broad Street
+
+Lena
+31
+9804356
+450 Market Street

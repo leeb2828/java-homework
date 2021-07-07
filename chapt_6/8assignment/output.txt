@@ -1,0 +1,2 @@
+Enter a temperature in fahrenheit: 90
+Fahrenheit: 90  Celsius: 32.2  Kelvin: 305.2

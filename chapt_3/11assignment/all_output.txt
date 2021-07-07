@@ -1,0 +1,17 @@
+Enter a year: 2000
+The year is a leap year.
+
+Enter a year: 2008
+The year is a leap year.
+
+Enter a year: 2020
+The year is a leap year.
+
+Enter a year: 2009
+The year is NOT a leap year.
+
+Enter a year: 2100
+The year is NOT a leap year.
+
+Enter a year: 2019
+The year is NOT a leap year.

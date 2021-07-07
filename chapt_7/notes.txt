@@ -1,0 +1,71 @@
+
+// ArrayList<Type>(initialCapacity)
+
+        /*
+        - An arraylist will automatically adjust its size as you add more elements to it. You don't have
+          to worry about exceeding the capacity of an arraylist.
+        - An arraylist uses an array internally to store the element in a list.
+        - The capacity of an array list automatically increases whenever necessary.
+        - To improve the performance of an arraylist, specify a starting capacity instead of using the default(10).
+        */
+        ArrayList<String> stringList = new ArrayList<String>();
+
+        // add() -> add a new element
+        // set() -> to change an element to something else
+        // get() -> retrieve an element at a specified index.
+        // remove() -> remove an element by specifying the name or the index
+        
+        stringList.add("Steve");
+        stringList.add(0, "Mike");
+        stringList.add((stringList.size()), "Lana");
+
+        System.out.println(stringList); // [Mike, Steve, Lana]
+
+        // Let's change "Mike" to "Lucy"
+        stringList.set(0, "Lucy");
+
+        System.out.println(stringList); // [Lucy, Steve, Lana]
+        System.out.println(stringList.get(1)); // Steve
+
+
+        System.out.println();
+        for (String name: stringList) {
+            System.out.println(name);
+        }
+        System.out.println();
+
+        String[] my_array = new String[stringList.size()];
+        my_array = stringList.toArray(my_array);
+
+        stringList.remove("Lana");
+        stringList.remove(0);
+        System.out.println(stringList); // [Steve]
+
+
+        ArrayList<Integer> numberList = new ArrayList<Integer>(12);
+        // Another way to do it.
+        System.out.println();
+        List<Integer> arr = new ArrayList<>(12);
+        arr.add(0, 10);
+        arr.add(1, 20);
+        arr.add(2, 30);
+        arr.add(40);
+        arr.add(50);
+
+        System.out.println(arr);
+        /*
+            // Use a wrapper class (an Integer class) instead of the primitive type (the int type).
+            It's illegal to declare a collection with a primitive type
+            ArrayList<int> numberList = new ArrayList<int>(); // illegal!
+        */
+
+        /*
+        All primitive types have wrapper classes. For example, the Integer class is the wrapper class for the
+        int type. Double class is the wrapper class for the double type.
+        In order to store a primitive type in a collection, you specify its wrapper class as the type.
+        */
+
+        /*
+        Autoboxing - When adding values to the collection, the compiler automatically converts the primitive
+        value to its wrapper type. int -> Integer
+        */

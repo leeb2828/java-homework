@@ -1,0 +1,2 @@
+Enter a number with the range of 65-90 OR 97-122: 65
+The unicode for number 65 is A.

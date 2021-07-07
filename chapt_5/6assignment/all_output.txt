@@ -1,0 +1,9 @@
+Enter the hypotenuse of the triangle: 5
+Enter the base of the triangle: 3
+Enter the height of the triangle: 4
+This is a right-angled triangle
+
+Enter the hypotenuse of the triangle: 4
+Enter the base of the triangle: 2
+Enter the height of the triangle: 6
+This is not a right-angled triangle

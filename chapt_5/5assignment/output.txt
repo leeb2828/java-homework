@@ -1,0 +1,10 @@
+Seconds=1  4.9 meters 
+Seconds=2  19.6 meters 
+Seconds=3  44.1 meters 
+Seconds=4  78.4 meters 
+Seconds=5  122.5 meters 
+Seconds=6  176.4 meters 
+Seconds=7  240.1 meters 
+Seconds=8  313.6 meters 
+Seconds=9  396.9 meters 
+Seconds=10  490.0 meters 

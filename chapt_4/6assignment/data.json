@@ -1,0 +1,7 @@
+{
+    "name": "user",
+    "address": {
+        "city":"philadelphia",
+        "zip": 19128
+    }
+}

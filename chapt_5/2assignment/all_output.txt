@@ -1,0 +1,7 @@
+Enter the item's wholesale cost: $5.00
+Enter its markup percentage: 100
+The retail price of the item is $10.00 
+
+Enter the item's wholesale cost: $5.00
+Enter its markup percentage: 50
+The retail price of the item is $7.50 
