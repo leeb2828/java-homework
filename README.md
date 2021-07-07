@@ -11,8 +11,7 @@ Run
 ```
 $ java --version
 ```
-$ javac --version
-```
+
 from the command line.<br />
 If you don't have Java installed, open up your browser and search for "jdk download". JDK stands for Java Development Kit. 
 You will be able to download it from Oracle.<br />
