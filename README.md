@@ -6,7 +6,7 @@ These are all the programming assignments I completed for the book "Starting out
 First, check if you have Java installed. 
 Run 
 ```
-$ java --version
+
 
 ```
 $ java --version
