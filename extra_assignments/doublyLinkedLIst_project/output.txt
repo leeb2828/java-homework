@@ -1,0 +1,81 @@
+LIST OF STUDENTS: {
+}
+
+Pick a number option: 
+1.) Create a student to add to the line.
+2.) Remove a student from the line
+3.) Quit the program
+
+> 1
+(String) Enter the name of the student: Emily
+(Integer) Enter the age of the student: 14
+(Integer) What grade is the student in?: 9
+
+Should this student be placed at the front or back of the lunch line?
+1.) Front  2.) Back
+
+> 1
+
+LIST OF STUDENTS: {
+* Name: Emily  Age: 14  Grade: 9th.
+No one is standing in front of me and no one is standing behind me.
+
+}
+
+Pick a number option: 
+1.) Create a student to add to the line.
+2.) Remove a student from the line
+3.) Quit the program
+
+> 1
+(String) Enter the name of the student: Jamie
+(Integer) Enter the age of the student: 15
+(Integer) What grade is the student in?: 10
+
+Should this student be placed at the front or back of the lunch line?
+1.) Front  2.) Back
+
+> 2
+
+LIST OF STUDENTS: {
+* Name: Emily  Age: 14  Grade: 9th.
+No one is standing in front of me and Jamie is standing behind me.
+
+* Name: Jamie  Age: 15  Grade: 10th.
+Emily is standing in front of me and no one is standing behind me.
+
+}
+
+Pick a number option: 
+1.) Create a student to add to the line.
+2.) Remove a student from the line
+3.) Quit the program
+
+> 1
+(String) Enter the name of the student: Lorane
+(Integer) Enter the age of the student: 16
+(Integer) What grade is the student in?: 11
+
+Should this student be placed at the front or back of the lunch line?
+1.) Front  2.) Back
+
+> 2
+
+LIST OF STUDENTS: {
+* Name: Emily  Age: 14  Grade: 9th.
+No one is standing in front of me and Jamie is standing behind me.
+
+* Name: Jamie  Age: 15  Grade: 10th.
+Emily is standing in front of me and Lorane is standing behind me.
+
+* Name: Lorane  Age: 16  Grade: 11th.
+Jamie is standing in front of me and no one is standing behind me.
+
+}
+
+Pick a number option: 
+1.) Create a student to add to the line.
+2.) Remove a student from the line
+3.) Quit the program
+
+> 3
